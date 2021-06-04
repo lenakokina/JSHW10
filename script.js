@@ -11,8 +11,8 @@ function clickHandler() {
 
 function isEmptyString() {
   if (inputField.value === ' ')
-      return
-      addList()
+    return
+   addList()    
 }
 
 function addList() {   
