@@ -1,0 +1,54 @@
+body {
+    background-color:beige;
+}
+
+#container{
+height: 400px;
+width: 360px;
+border: 1px solid black;
+margin-bottom: 14px;
+background-color:  #57edf8;
+
+}
+
+#myBtn {
+    
+    font-size: 18px;
+    line-height: 1.22;
+    color: black;
+    text-align: center;    
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 14px 24px;
+    background-color: #1ee9f7;
+    }
+
+#inputEnter {
+    font-size: 18px;
+    line-height: 1.22;
+    color: black;
+    text-align: center;   
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 14px 24px;
+    background-color: #1ee9f7;
+}
+
+.todo-list {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';    
+}
+
+.buttonDelete {
+    font-size: 12px;
+    line-height: 1.22;
+    color: black;
+    text-align: center;   
+    border: 1px solid black;    
+    padding: 3px;
+    background-color: #1ee9f7;
+    margin-left: 30px;
+    
+}
+
+    
